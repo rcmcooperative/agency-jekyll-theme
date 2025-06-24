@@ -76,9 +76,33 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "A cooperative of community managers dedicated to creating equitable, resilient and collaborative research."
+    # body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
+    mission_list:
+      - title: "Our Mission"
+        desc: "Our mission is to empower research communities through capacity building, growing a network of community leaders and ecosystem facilitation."
+        icon: fas fa-bullseye
+      - title: "Our Approach"
+        desc: "We combine open research practices with a deep understanding of research community dynamics to deliver practical and impactful solutions."
+        icon: fas fa-lightbulb
+      - title: "Our Values"
+        desc: "Inclusivity, collaboration, integrity, and sustainability are at the core of everything we do, guiding our interactions and initiatives."
+        icon: fas fa-heart
+    why_cooperative: 
+      title: "<br>Why a Cooperative?" 
+      text: "Our cooperative structure reflects our core values of collaboration, equity, and shared purpose. Here's why it's fundamental to our work:" # <-- UPDATED TEXT
+      cooperative_values_list: 
+        - title: "Shared Ownership"
+          desc: "Every member has a voice and a stake in our collective success and direction."
+          icon: fas fa-hand-holding-usd # Example icon
+        - title: "Democratic Governance"
+          desc: "Decisions are made collectively, ensuring transparency and accountability to our community."
+          icon: fas fa-gavel # Example icon
+        - title: "Ethical Principles"
+          desc: "Our model prioritizes people and planet over profit, aligning with sustainable development goals."
+          icon: fas fa-leaf # Example icon
+  
 
   clients:
     section: clients
