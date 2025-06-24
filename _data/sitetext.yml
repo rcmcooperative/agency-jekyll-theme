@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We work with and for communities to develop and refine their capacity for equitable, resiliant and collaborative research. <br><br><a href=\"#contact\">Contact Us</a> to discuss what your community needs!"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Training"
+        desc: "We develop bespoke training to build capacity in research community management for your team or organisation."
+        icon: fas fa-user-graduate #find more at https://fontawesome.com/icons
+      - title: "Mentoring"
+        desc: "We support continuous development of people with research community management responsibilities in cohorts and one-to-one."
+        icon: far fa-handshake
+      - title: "Strategy"
+        desc: "We conduct strategic research on your community to devise evidence-based strategy aligned with your origanisational prioroties."
+        icon: fas fa-compass
 
   portfolio:
     title: "Portfolio"
