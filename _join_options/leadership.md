@@ -1,23 +1,16 @@
 ---
 caption: #Leadership
   title: Join the leadership
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  subtitle: Define our direction, for the benfit of all members.
+  thumbnail: assets/img/join/johannes-plenio-voQ97kezCx0-unsplash.jpg
 modalID: joinLeadership
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Join our leadership
+subtitle: Define our direction, for the benfit of all members.
+image: assets/img/join/johannes-plenio-voQ97kezCx0-unsplash.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+Step beyond traditional roles. Our cooperative invites you to lead from within, actively creating new opportunities and defining the strategic direction of our organization. Assume responsibility for initiatives that align with your unique interests, while significantly improving your capacity and shaping the landscape of our field.
 

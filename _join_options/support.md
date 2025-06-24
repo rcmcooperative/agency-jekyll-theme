@@ -1,23 +1,30 @@
 ---
 caption: #Support
   title: Support us
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  subtitle: Contribute to collective growth
+  thumbnail: assets/img/join/aaron-santelices-z03mWBdAq5I-unsplash.jpg
 modalID: joinSupport
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Support us
+subtitle: Contribute to collective growth
+image: assets/img/join/aaron-santelices-z03mWBdAq5I-unsplash.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
 
-optional info list (delete if not using):
+# Contribute to Collective Growth
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+Every partnership fuels our ability to empower research community managers and build a more resilient research ecosystem. Explore these impactful ways your organization can support our collective mission:
 
+## 1. Fund Our Impact Through Grants
+Allocate resources within your grant proposals for our membership or services. This directly invests in your team's capacity for community management and supports our cooperative's mission."
+icon: fas fa-sack-dollar (or fas fa-receipt, fas fa-money-check-alt)
+
+## 2. Discuss Your Community Strategy
+
+Initiate a conversation with us about your organization's specific needs for fostering effective and sustainable communities. We provide expert guidance and tailored solutions.
+
+## 3. Share Our Story
+
+Become an ambassador for our cooperative. By sharing our work with your networks, you help us connect with like-minded organizations and expand the reach of our capacity-building initiatives.
