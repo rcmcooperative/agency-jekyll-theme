@@ -1,7 +1,7 @@
 ---
-name: "Kay Garland"
-role: "Lead Designer"
-image: assets/img/team/500x500.jpg
+name: "Emma Karoune"
+role: "Co-Founder"
+image: assets/img/team/emma-square-100x100.jpg
 social:
     - url: https://twitter.com
       icon: fab fa-twitter
@@ -10,4 +10,4 @@ social:
     - url: https://linkedin.com
       icon: fab fa-linkedin-in
 ---
-This is where John Doe's short bio or additional text can go.
+This is where Emma's short bio or additional text can go.

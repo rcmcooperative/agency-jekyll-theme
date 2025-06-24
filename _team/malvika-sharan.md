@@ -1,7 +1,7 @@
 ---
-name: "Larry Parker"
-role: "Lead Marketer"
-image: assets/img/team/2.jpg
+name: "Malvika Sharan"
+role: "Co-Founder"
+image: assets/img/team/malvika-square-100x100.jpg
 social:
     - url: https://twitter.com
       icon: fab fa-twitter
@@ -10,4 +10,4 @@ social:
     - url: https://linkedin.com
       icon: fab fa-linkedin-in
 ---
-This is where John Doe's short bio or additional text can go.
+This is where Malvika's short bio or additional text can go.
