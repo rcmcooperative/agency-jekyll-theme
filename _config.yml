@@ -16,10 +16,10 @@ theme: jekyll-agency
 url    : "http://rcmcooperative.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
+title      : RCM Cooperative
+email      : cassandra.gouldvanpraag@rcmcooperative.com #this is also the email contact forms will go to
 description: "Site description"
-author     : Your Name
+author     : RCM Cooperative
 logo:     #optional, defaults to site title
   path: assets\img\clients\rcmcoop-peach.png
   height: 60 #height in px, defaults to 52px
