@@ -1,6 +1,6 @@
 ---
-caption: #Services
-  title: Explore our services
+caption: #Support
+  title: Support us
   subtitle: subtitle
   thumbnail: https://place-hold.it/400x300
 modalID: joinSupport
