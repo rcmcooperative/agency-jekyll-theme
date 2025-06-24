@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: RCM Cooperative
+    text: building sustainable research communities
     button: Tell Me More
     buttonlink: "#services"
 
@@ -35,6 +35,12 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
+    closebutton: "Close Project"
+
+  join:
+    title: "Join our community"
+    text: "Ways to get involved with this work."
+    section: join
     closebutton: "Close Project"
 
   timeline:

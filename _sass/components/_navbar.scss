@@ -1,5 +1,11 @@
 // Styling for the navbar
 #mainNav {
+  // --- START Sticky Nav Additions ---
+  position: fixed; // Use fixed so it's always at the top
+  top: 0;          // Stick it to the very top of the viewport
+  width: 100%;     // Ensure it spans the full width
+  z-index: 1000;   // Ensure it's above other content
+  // --- END Sticky Nav Additions ---
   background-color: $gray-900;
   .navbar-toggler {
     font-size: 12px;
@@ -46,7 +52,7 @@
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+    // background-color: transparent; // commented out to make it sticky
     .navbar-brand {
       font-size: 1.75em;
       -webkit-transition: all 0.3s;
