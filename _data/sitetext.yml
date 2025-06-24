@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   join:
-    title: "Join our community"
+    title: "Join our cooperative"
     text: "Ways to get involved with this work."
     section: join
     closebutton: "Close Project"
