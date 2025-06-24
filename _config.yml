@@ -33,6 +33,8 @@ collections:
   portfolio:
   join_options:
     output: false
+  team:
+    output: true
 
 markdown: kramdown
 
