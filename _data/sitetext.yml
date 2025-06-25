@@ -124,8 +124,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: ""
+    subtext: We are excited to grow our cooperative membership. Take a look at the [join](#join) information to find out how you can be a part of our community!
     section: team
 
   contact:
