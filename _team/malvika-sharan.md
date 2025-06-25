@@ -10,4 +10,4 @@ social:
     - url: http://github.com/malvikasharan 
       icon: fab fa-github
 ---
-This is where Malvika's short bio or additional text can go.
+<div style="text-align: justify">Malvika is a co-founder of <a href="https://we-are-ols.org">OLS (Open Life Science Ltd.)</a>, a non-profit dedicated to building skills and capacity in open science through mentoring and community-based learning. She is also a senior researcher at The Alan Turing Institute, where she focuses on open research and community building, co-leading the research community managers team and The Turing Way project. An active contributor to various open science initiatives, Malvika is a Software Sustainability Institute fellow and one of the 2024 100 Brilliant Women in AI Ethics, dedicated to promoting digital skill-building and smashing stereotypes in data science and AI.</div>

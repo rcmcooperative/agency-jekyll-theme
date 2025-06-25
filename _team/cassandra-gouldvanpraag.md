@@ -10,4 +10,4 @@ social:
     - url: https://github.com/cassgvp
       icon: fab fa-github
 ---
-This is where Cass's short bio or additional text can go.
+<div style="text-align: justify">Cass has a PhD in Neuroscience (2014) and 5 years experience building data science communities at the Alan Turing Institute and University of Oxford, with a particular focus on embedding open research practices. With both qualitative and quantitative research expertise, she is a skilled analyst, strategist and creative problem solver. She aims for maximum transparency and reproducibility in her work, and prioritises inclusive and joyful participation.</div>
