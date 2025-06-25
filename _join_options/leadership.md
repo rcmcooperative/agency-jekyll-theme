@@ -14,3 +14,4 @@ alt: image alt text
 ---
 Step beyond traditional roles. Our cooperative invites you to lead from within, actively creating new opportunities and defining the strategic direction of our organization. Assume responsibility for initiatives that align with your unique interests, while significantly improving your capacity and shaping the landscape of our field.
 
+**Please contact [cassandra.gouldvanpraag@rcmcooperative.com](mailto:cassandra.gouldvanpraag@rcmcooperative.com) to discuss how you can join the leadership of the cooperative!**

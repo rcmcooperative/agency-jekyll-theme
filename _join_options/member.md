@@ -14,3 +14,6 @@ alt: image alt text
 ---
 In our cooperative, we don't just find opportunities – we create them. Join a member-driven network focused on improving the capacity of every research community manager, ensuring you have the skills, support, and collective power to take charge of your professional journey.
 
+**Please contact [cassandra.gouldvanpraag@rcmcooperative.com](mailto:cassandra.gouldvanpraag@rcmcooperative.com) to discuss how you can become a member of the cooperative!**
+
+

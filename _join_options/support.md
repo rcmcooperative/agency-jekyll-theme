@@ -13,7 +13,9 @@ alt: image alt text
 
 ---
 
-Every partnership fuels our ability to empower research community managers and build a more resilient research ecosystem. Explore these impactful ways your organization can support our collective mission:
+Every partnership fuels our ability to empower research community managers and build a more resilient research ecosystem. Below are a few ways your organization can support our collective mission. 
+
+**Please contact [cassandra.gouldvanpraag@rcmcooperative.com](mailto:cassandra.gouldvanpraag@rcmcooperative.com) to discuss your specific conext and needs!**
 
 ### 1. Fund Our Impact Through Grants
 Allocate resources within your grant proposals for our membership or services. This directly invests in your team's capacity for community management and supports our cooperative's mission.
@@ -23,3 +25,5 @@ Initiate a conversation with us about your organization's specific needs for fos
 
 ### 3. Share Our Story
 Become an ambassador for our cooperative. By sharing our work with your networks, you help us connect with like-minded organizations and expand the reach of our capacity-building initiatives.
+
+
