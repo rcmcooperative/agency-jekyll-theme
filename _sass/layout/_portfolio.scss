@@ -138,3 +138,22 @@
     }
   }
 }
+.portfolio-modal {
+  .modal-content {
+    /* Keep existing text-align: center; here for other elements if desired */
+
+    // .modal-body > p:first-of-type { /* This targets the very first <p> directly inside .modal-body */
+    //   text-align: justify !important; /* Use justify for even alignment */
+    // }
+
+    /* If your item.content markdown produces multiple <p> tags,
+       and you want ALL of them justified, you could target all <p>s
+       that are NOT .item-intro: */
+    .modal-body p:not(.item-intro) {
+      text-align: justify !important;
+    }
+    h3, h4 { /* Target your heading tags directly */
+      text-align: justify !important; // Or left !important;
+    }
+  }
+}
