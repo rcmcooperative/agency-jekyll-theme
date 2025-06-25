@@ -1,7 +1,7 @@
 ---
 name: "Emma Karoune"
 role: "Co-Founder"
-image: assets/img/team/emma-square-100x100.jpg
+image: assets/img/team/emma-karoune.jpg
 social:
     - url: https://www.linkedin.com/in/emma-karoune-81016137/
       icon: fab fa-linkedin-in

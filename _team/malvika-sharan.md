@@ -1,7 +1,7 @@
 ---
 name: "Malvika Sharan"
 role: "Co-Founder"
-image: assets/img/team/malvika-square-100x100.jpg
+image: assets/img/team/malvika-sharan.jpg
 social:
     - url: https://www.linkedin.com/in/malvikasharan/
       icon: fab fa-linkedin-in

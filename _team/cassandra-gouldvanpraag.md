@@ -1,7 +1,7 @@
 ---
 name: "Cassandra Gould van Praag"
 role: "Co-Founder / Executive Director"
-image: assets/img/team/cass-square-100x100.jpg
+image: assets/img/team/cassandra-gouldvanpraag.jpg
 social:
     - url: https://www.linkedin.com/in/cassandra-gould-van-praag-b8292a16/
       icon: fab fa-linkedin-in
